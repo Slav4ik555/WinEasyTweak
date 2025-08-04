@@ -1,0 +1,1 @@
+pyinstaller main.py --uac-admin -w -F --icon "<path-to-icon>"
