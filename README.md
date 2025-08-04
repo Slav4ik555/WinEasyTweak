@@ -18,7 +18,7 @@
 
 ## 🚀Usage
 
-1. Download the latest executable from [Releases](https://github.com/yourusername/WinEasyTweak/releases).
+1. Download the latest executable from [Releases](https://github.com/Slav4ik555/WinEasyTweak/releases).
 2. Run `WinEasyTweak.exe` (Administrator rights required).
 
 **The interface provides three main functions:**
@@ -62,3 +62,4 @@
 ## 📜License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
